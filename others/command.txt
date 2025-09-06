@@ -1,0 +1,2 @@
+cd D:\Users\software-engineering-application\frontend\src
+npx expo start
